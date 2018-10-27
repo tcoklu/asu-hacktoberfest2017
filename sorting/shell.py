@@ -1,5 +1,3 @@
-import numpy
-
 def shellSort(numbers):
     
     gap = len(numbers) // 2
